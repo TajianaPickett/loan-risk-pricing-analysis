@@ -31,8 +31,7 @@ This project analyzes a large consumer loan portfolio using **Apache Spark (PySp
 ---
 
 ## Tools
-- **Apache Spark / PySpark**
-- **Python**
+- **PySpark**
 - **Spark SQL**
 
 ---
